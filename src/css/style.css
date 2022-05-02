@@ -73,6 +73,7 @@ body {
 .menu-lateral__link--ativo:hover{
     color: #FFFFFF;
     border-left: 8px solid #FFFFFF;
+    font-size: 20px;
 }
 
 .menu-lateral__link::before {
